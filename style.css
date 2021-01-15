@@ -1,0 +1,83 @@
+.bebas-font{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 400;
+}
+.roboto-font{
+    font-family: 'Roboto', sans-serif;  
+}
+.roboto-font-500{
+    font-family: 'Roboto', sans-serif;
+}
+.header-bg{
+    background-color: #fffff4;
+}
+.header-head-text{
+    line-height: 0px;
+}
+.header-head-text-1{
+    font-size: 70px;
+    color: #363958;
+    padding: 0px;
+    margin: 0px;
+}
+.header-head-text-2{
+    font-size: 70px;
+    color: #76c27e;
+    padding: 0px;
+    margin: 0px;
+}
+.header-btn-shopping-cart-img{
+    width: 21%;
+    padding-right: 5%;
+}
+.header-btn-bg-text{
+    border: 0;
+    border-radius: 9px;
+    background-color: #2a1e59;
+    color: white;
+    padding: 13px 4px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.services-header{
+    color: #363958;
+}
+.backpack-part-header{
+    font-size: 44px;
+    color: #363958;
+}
+.casual-card{
+    border: 0;
+    border-radius: 20px;
+}
+.casual-header{
+    color: #363958;
+}
+.bags-background{
+    border-radius: 15px;
+    background-color: #f1f1f1;
+    width: 90%;
+    margin: 5%;
+    margin-bottom: 0;
+}
+.casual-backpack-bottom-part{
+    margin: 5%;
+    padding: 0;
+}
+.btn-shopping-cart-img{
+    width: 21%;
+    padding-right: 5%;
+}
+.btn-bg-text{
+    border: 0;
+    border-radius: 9px;
+    background-color: #2a1e59;
+    color: white;
+}
+.casual-price{
+    color: #76c27e;
+}
+.subscribe-bg{
+    height: 250px;
+    background-color: #fffff4;
+}
